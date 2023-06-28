@@ -4,14 +4,16 @@
 cff-version: 1.2.0
 title: Dataset HIF detection
 message: >-
-  If you use this dataset, please cite it using the metadata
-  from this file.
-type: dataset
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - given-names: Ivan
+  - email: ivan.grcic@fer.hr
     family-names: Grcić
-    email: ivan.grcic@fer.hr
+    given-names: Ivan
+repository-code: 'https://github.com/ivangrcic/dataset-hif-detection'
 abstract: This dataset is used to evaluate HIF detection method.
 keywords:
-  - high impedance fault
+  - high impedance fault detection
+  - microgrid
 license: MIT
