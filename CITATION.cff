@@ -14,4 +14,4 @@ authors:
 abstract: This dataset is used to evaluate HIF detection method.
 keywords:
   - high impedance fault
-license: CC-BY-4.0
+license: MIT
